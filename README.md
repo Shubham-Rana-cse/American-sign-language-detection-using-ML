@@ -6,4 +6,6 @@
  3. Training Model - train_classifiers.py
  4. Testing Model - testing_classifiers.py
 
+ALSO results.py contains python code for the calculation of the results(accuracy, recall, F1 score, confussion matrix, etc.) of our project/model.
+
 For futher details please read the Project Report.
