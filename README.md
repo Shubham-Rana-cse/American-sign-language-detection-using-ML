@@ -5,4 +5,5 @@
  2. Data Preprocessing - dataser_creation.py
  3. Training Model - train_classifiers.py
  4. Testing Model - testing_classifiers.py
+
 For futher details please read the Project Report.
